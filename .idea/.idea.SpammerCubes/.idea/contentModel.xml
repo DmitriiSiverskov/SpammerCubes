@@ -10,11 +10,15 @@
           <e p="ActionScene" t="Include">
             <e p="InstanceCubes.cs" t="Include" />
           </e>
-          <e p="Event" t="Include">
-            <e p="GlabalEventManager.cs" t="Include" />
-          </e>
           <e p="MenuScene" t="Include">
             <e p="Examination.cs" t="Include" />
+          </e>
+          <e p="ObjectBehavior" t="Include">
+            <e p="DistanceDestroy.cs" t="Include" />
+            <e p="Move.cs" t="Include" />
+          </e>
+          <e p="Structure" t="Include">
+            <e p="StructureInputData.cs" t="Include" />
           </e>
         </e>
       </e>
